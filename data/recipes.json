@@ -5,7 +5,7 @@
       "ingredients": ["Shrimp", "Garlic", "Red Pepper Flakes", "Olive Oil", "Lemon Juice"],
       "cooking_method": "1. In a skillet, heat olive oil over medium heat. Add garlic and red pepper flakes.\n2. Add shrimp to the skillet and cook until pink and cooked through.\n3. Squeeze lemon juice over the shrimp.\n4. Serve hot.",
       "rating": 4.5,
-      "recipe_image": "spicy_garlic_shrimp.jpg"
+      "recipe_image": "http://kodeforest.net/wp-demo/foodcourt/wp-content/uploads/2016/06/re-1600x900.jpg"
     },
     {
       "chef_id": 1,
@@ -13,7 +13,7 @@
       "ingredients": ["Salmon fillets", "Fresh dill", "Greek yogurt", "Lemon", "Salt and pepper"],
       "cooking_method": "1. Preheat the grill.\n2. Season salmon fillets with salt and pepper.\n3. Grill the salmon for about 4-5 minutes per side, or until cooked to desired doneness.\n4. In a bowl, mix Greek yogurt, chopped dill, and lemon juice to make the dill sauce.\n5. Serve the grilled salmon with dill sauce on top.",
       "rating": 4.8,
-      "recipe_image": "grilled_salmon_dill_sauce.jpg"
+      "recipe_image": "http://kodeforest.net/wp-demo/foodcourt/wp-content/uploads/2016/06/re-1600x900.jpg"
     },
     {
       "chef_id": 1,
@@ -21,7 +21,7 @@
       "ingredients": ["Pasta", "Assorted vegetables (e.g., bell peppers, zucchini, cherry tomatoes)", "Garlic", "Olive oil", "Parmesan cheese"],
       "cooking_method": "1. Cook pasta according to package instructions.\n2. In a skillet, heat olive oil over medium heat. Add garlic and sauté until fragrant.\n3. Add the vegetables to the skillet and cook until tender-crisp.\n4. Drain the cooked pasta and add it to the skillet with the vegetables.\n5. Toss the pasta and vegetables together, adding more olive oil if needed.\n6. Serve with grated Parmesan cheese on top.",
       "rating": 4.2,
-      "recipe_image": "pasta_primavera.jpg"
+      "recipe_image": "http://kodeforest.net/wp-demo/foodcourt/wp-content/uploads/2016/06/re-1600x900.jpg"
     },
     {
       "chef_id": 2,
@@ -29,7 +29,7 @@
       "ingredients": ["Unsalted butter", "Dark chocolate", "Eggs", "Sugar", "Flour"],
       "cooking_method": "1. Preheat the oven.\n2. Melt butter and dark chocolate together.\n3. In a separate bowl, beat eggs and sugar until well combined.\n4. Add the melted chocolate mixture to the egg mixture and stir.\n5. Fold in the flour.\n6. Pour the batter into greased ramekins.\n7. Bake in the oven for a few minutes until the edges are set but the center is still soft.\n8. Remove from the oven and let it cool for a minute.\n9. Invert the ramekins onto plates and serve with ice cream.",
       "rating": 4.6,
-      "recipe_image": "chocolate_lava_cake.jpg"
+      "recipe_image": "http://kodeforest.net/wp-demo/foodcourt/wp-content/uploads/2016/06/re-1600x900.jpg"
     },
     {
       "chef_id": 2,
@@ -37,7 +37,7 @@
       "ingredients": ["Arborio rice", "Mushrooms", "Onion", "Vegetable broth", "Parmesan cheese"],
       "cooking_method": "1. In a large skillet, heat oil over medium heat. Add chopped onions and sauté until translucent.\n2. Add sliced mushrooms and cook until they release their moisture.\n3. Add Arborio rice and stir to coat in oil.\n4. Gradually add vegetable broth, stirring frequently, until the rice is cooked and creamy.\n5. Stir in grated Parmesan cheese.\n6. Serve the mushroom risotto hot.",
       "rating": 4.4,
-      "recipe_image": "mushroom_risotto.jpg"
+      "recipe_image": "http://kodeforest.net/wp-demo/foodcourt/wp-content/uploads/2016/06/re-1600x900.jpg"
     },
     {
       "chef_id": 2,
@@ -45,7 +45,7 @@
       "ingredients": ["Tomatoes", "Fresh mozzarella cheese", "Fresh basil leaves", "Balsamic vinegar", "Extra virgin olive oil"],
       "cooking_method": "1. Slice tomatoes and fresh mozzarella cheese.\n2. Arrange alternating slices of tomatoes and mozzarella on a serving dish.\n3. Garnish with fresh basil leaves.\n4. Drizzle balsamic vinegar and extra virgin olive oil over the salad.\n5. Season with salt and pepper to taste.\n6. Serve the Caprese salad at room temperature.",
       "rating": 4.7,
-      "recipe_image": "caprese_salad.jpg"
+      "recipe_image": "https://www.themeenergy.com/themes/wordpress/social-chef/wp-content/uploads/2014/11/strawberry-273908_1280.jpg"
     },
     {
       "chef_id": 3,
@@ -53,7 +53,7 @@
       "ingredients": ["Whole chicken", "Olive oil", "Lemon", "Garlic", "Rosemary", "Salt and pepper"],
       "cooking_method": "1. Preheat the oven.\n2. Rub the whole chicken with olive oil, lemon juice, minced garlic, and chopped rosemary.\n3. Season with salt and pepper.\n4. Place the chicken in a roasting pan and cook in the oven until the internal temperature reaches a safe level.\n5. Let the chicken rest for a few minutes before carving.\n6. Serve the roasted chicken with your favorite side dishes.",
       "rating": 4.3,
-      "recipe_image": "roasted_chicken.jpg"
+      "recipe_image": "https://www.themeenergy.com/themes/wordpress/social-chef/wp-content/uploads/2014/11/strawberry-273908_1280.jpg"
     },
     {
       "chef_id": 3,
@@ -61,7 +61,7 @@
       "ingredients": ["Beef", "Broccoli", "Bell peppers", "Soy sauce", "Ginger", "Garlic", "Sesame oil"],
       "cooking_method": "1. Slice beef into thin strips.\n2. In a hot skillet, stir-fry beef until browned.\n3. Remove beef from the skillet and set aside.\n4. In the same skillet, stir-fry broccoli, bell peppers, ginger, and garlic.\n5. Return the beef to the skillet and add soy sauce.\n6. Stir-fry until the beef is cooked to your liking.\n7. Drizzle with sesame oil and serve the beef stir-fry with steamed rice.",
       "rating": 4.1,
-      "recipe_image": "beef_stir_fry.jpg"
+      "recipe_image": "https://www.themeenergy.com/themes/wordpress/social-chef/wp-content/uploads/2014/11/strawberry-273908_1280.jpg"
     },
     {
       "chef_id": 3,
@@ -69,7 +69,7 @@
       "ingredients": ["Butter", "Flour", "Powdered sugar", "Eggs", "Sugar", "Lemon juice", "Lemon zest"],
       "cooking_method": "1. Preheat the oven.\n2. In a mixing bowl, combine melted butter, flour, and powdered sugar to make the crust.\n3. Press the crust mixture into a baking pan and bake until lightly golden.\n4. In another bowl, whisk together eggs, sugar, lemon juice, and lemon zest.\n5. Pour the lemon mixture over the baked crust.\n6. Bake again until the lemon filling is set.\n7. Let it cool and dust with powdered sugar.\n8. Cut into bars and serve.",
       "rating": 4.5,
-      "recipe_image": "lemon_bars.jpg"
+      "recipe_image": "https://www.themeenergy.com/themes/wordpress/social-chef/wp-content/uploads/2014/11/strawberry-273908_1280.jpg"
     },
     {
       "chef_id": 4,
@@ -77,7 +77,7 @@
       "ingredients": ["Beef tenderloin", "Puff pastry", "Mushrooms", "Dijon mustard", "Egg wash"],
       "cooking_method": "1. Preheat the oven.\n2. Season the beef tenderloin with salt and pepper.\n3. Sear the beef in a hot skillet until browned on all sides.\n4. Brush the beef with Dijon mustard.\n5. Roll out puff pastry and place the seared beef in the center.\n6. Spread sautéed mushrooms over the beef.\n7. Wrap the puff pastry around the beef, sealing the edges.\n8. Brush the pastry with egg wash.\n9. Bake in the oven until the pastry is golden and the beef is cooked to your desired doneness.\n10. Let it rest before slicing and serving.",
       "rating": 4.9,
-      "recipe_image": "beef_wellington.jpg"
+      "recipe_image": "https://www.themeenergy.com/themes/wordpress/social-chef/wp-content/uploads/2014/11/strawberry-273908_1280.jpg"
     },
     {
       "chef_id": 4,
@@ -85,7 +85,7 @@
       "ingredients": ["Potatoes", "Garlic", "Butter", "Milk", "Salt and pepper"],
       "cooking_method": "1. Peel and cut potatoes into cubes.\n2. Boil the potatoes until tender.\n3. In a separate saucepan, melt butter and sauté minced garlic.\n4. Drain the cooked potatoes and add them to the saucepan with the garlic butter.\n5. Mash the potatoes, gradually adding milk to achieve the desired consistency.\n6. Season with salt and pepper.\n7. Serve the garlic mashed potatoes hot.",
       "rating": 4.7,
-      "recipe_image": "garlic_mashed_potatoes.jpg"
+      "recipe_image": "https://www.themeenergy.com/themes/wordpress/social-chef/wp-content/uploads/2014/11/strawberry-273908_1280.jpg"
     },
     {
       "chef_id": 4,
@@ -93,7 +93,7 @@
       "ingredients": ["Ladyfingers", "Espresso", "Mascarpone cheese", "Egg yolks", "Sugar", "Cocoa powder"],
       "cooking_method": "1. Brew strong espresso and let it cool.\n2. In a mixing bowl, beat egg yolks and sugar until creamy.\n3. Add mascarpone cheese to the egg mixture and mix until well combined.\n4. Dip ladyfingers in the cooled espresso and layer them in a dish.\n5. Spread a layer of the mascarpone mixture over the ladyfingers.\n6. Repeat the layers until all ingredients are used, ending with a layer of mascarpone.\n7. Dust the top with cocoa powder.\n8. Refrigerate the tiramisu for a few hours or overnight before serving.",
       "rating": 4.6,
-      "recipe_image": "tiramisu.jpg"
+      "recipe_image": "https://www.themeenergy.com/themes/wordpress/social-chef/wp-content/uploads/2014/11/strawberry-273908_1280.jpg"
     },
     {
       "chef_id": 5,
@@ -101,7 +101,7 @@
       "ingredients": ["Chicken breast", "Breadcrumbs", "Parmesan cheese", "Marinara sauce", "Mozzarella cheese", "Spaghetti"],
       "cooking_method": "1. Preheat the oven.\n2. Coat chicken breasts in breadcrumbs mixed with grated Parmesan cheese.\n3. Heat oil in a skillet and cook the chicken until golden brown.\n4. Transfer the chicken to a baking dish and top with marinara sauce and mozzarella cheese.\n5. Bake in the oven until the cheese is melted and bubbly.\n6. Cook spaghetti according to package instructions.\n7. Serve the chicken Parmesan over spaghetti.",
       "rating": 4.3,
-      "recipe_image": "chicken_parmesan.jpg"
+      "recipe_image": "https://www.themeenergy.com/themes/wordpress/social-chef/wp-content/uploads/2014/11/strawberry-273908_1280.jpg"
     },
     {
       "chef_id": 5,
@@ -109,7 +109,7 @@
       "ingredients": ["Romaine lettuce", "Croutons", "Parmesan cheese", "Caesar dressing"],
       "cooking_method": "1. Wash and dry romaine lettuce leaves.\n2. Tear the leaves into bite-sized pieces.\n3. In a bowl, toss the lettuce with croutons.\n4. Add grated Parmesan cheese.\n5. Drizzle Caesar dressing over the salad.\n6. Toss to coat evenly.\n7. Serve the Caesar salad chilled.",
       "rating": 4.2,
-      "recipe_image": "caesar_salad.jpg"
+      "recipe_image": "https://www.themeenergy.com/themes/wordpress/social-chef/wp-content/uploads/2014/11/strawberry-273908_1280.jpg"
     },
     {
       "chef_id": 5,
@@ -117,7 +117,7 @@
       "ingredients": ["Shrimp", "Garlic", "Lemon juice", "White wine", "Butter", "Parsley", "Spaghetti"],
       "cooking_method": "1. Cook spaghetti according to package instructions.\n2. In a skillet, melt butter and sauté minced garlic.\n3. Add shrimp to the skillet and cook until pink.\n4. Pour in white wine and lemon juice.\n5. Simmer until the sauce thickens slightly.\n6. Toss cooked spaghetti with the shrimp scampi sauce.\n7. Garnish with chopped parsley.\n8. Serve the lemon garlic shrimp scampi hot.",
       "rating": 4.4,
-      "recipe_image": "shrimp_scampi.jpg"
+      "recipe_image": "http://kodeforest.net/wp-demo/foodcourt/wp-content/uploads/2016/06/re-1600x900.jpg"
     },
     {
       "chef_id": 6,
@@ -125,7 +125,7 @@
       "ingredients": ["Beef sirloin", "Onion", "Mushrooms", "Sour cream", "Beef broth", "Dijon mustard", "Egg noodles"],
       "cooking_method": "1. Slice beef sirloin into thin strips.\n2. In a skillet, cook beef and diced onions until browned.\n3. Add sliced mushrooms and cook until they release their moisture.\n4. In a separate bowl, mix sour cream, beef broth, and Dijon mustard.\n5. Pour the sour cream mixture into the skillet with the beef and mushrooms.\n6. Simmer until the sauce thickens.\n7. Cook egg noodles according to package instructions.\n8. Serve the beef stroganoff over egg noodles.",
       "rating": 4.7,
-      "recipe_image": "beef_stroganoff.jpg"
+      "recipe_image": "http://kodeforest.net/wp-demo/foodcourt/wp-content/uploads/2016/06/re-1600x900.jpg"
     },
     {
       "chef_id": 6,
@@ -133,7 +133,7 @@
       "ingredients": ["Salmon fillets", "Lemon", "Fresh dill", "Mayonnaise", "Dijon mustard"],
       "cooking_method": "1. Preheat the oven.\n2. Season salmon fillets with salt, pepper, and lemon juice.\n3. Place the seasoned salmon on a baking sheet.\n4. In a bowl, mix mayonnaise, chopped fresh dill, and Dijon mustard to make the sauce.\n5. Spread the sauce over the salmon.\n6. Bake in the oven until the salmon is cooked through.\n7. Serve the baked salmon with lemon-dill sauce.",
       "rating": 4.5,
-      "recipe_image": "baked_salmon.jpg"
+      "recipe_image": "http://kodeforest.net/wp-demo/foodcourt/wp-content/uploads/2016/06/re-1600x900.jpg"
     },
     {
       "chef_id": 6,
@@ -141,6 +141,6 @@
       "ingredients": ["Graham cracker crust", "Cream cheese", "Sugar", "Vanilla extract", "Eggs", "Mixed berries", "Whipped cream"],
       "cooking_method": "1. Preheat the oven.\n2. In a mixing bowl, beat cream cheese, sugar, and vanilla extract until smooth.\n3. Add eggs, one at a time, mixing well after each addition.\n4. Pour the cream cheese mixture into the graham cracker crust.\n5. Bake in the oven until the center is set.\n6. Let it cool and refrigerate for a few hours.\n7. Top the cheesecake with mixed berries.\n8. Serve the berry cheesecake chilled with a dollop of whipped cream.",
       "rating": 4.6,
-      "recipe_image": "berry_cheesecake.jpg"
+      "recipe_image": "http://kodeforest.net/wp-demo/foodcourt/wp-content/uploads/2016/06/re-1600x900.jpg"
     }
   ]

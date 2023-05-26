@@ -1,7 +1,7 @@
 [
     {
       "id": 1,
-      "image": "chef1.jpg",
+      "image": "https://html.themefax.com/RegFood/images/chef_4.jpg",
       "name": "John Smith",
       "experience": "10 years",
       "recipes": 4,
@@ -10,7 +10,7 @@
     },
     {
       "id": 2,
-      "image": "chef2.jpg",
+      "image": "https://html.themefax.com/RegFood/images/chef_5.jpg",
       "name": "Emily Johnson",
       "experience": "8 years",
       "recipes": 3,
@@ -19,7 +19,7 @@
     },
     {
       "id": 3,
-      "image": "chef3.jpg",
+      "image": "https://html.themefax.com/RegFood/images/chef_4.jpg",
       "name": "Michael Davis",
       "experience": "12 years",
       "recipes": 5,
@@ -28,7 +28,7 @@
     },
     {
       "id": 4,
-      "image": "chef4.jpg",
+      "image": "https://html.themefax.com/RegFood/images/chef_1.jpg",
       "name": "Sophia Wilson",
       "experience": "6 years",
       "recipes": 4,
@@ -37,7 +37,7 @@
     },
     {
       "id": 5,
-      "image": "chef5.jpg",
+      "image": "https://html.themefax.com/RegFood/images/chef_5.jpg",
       "name": "Daniel Brown",
       "experience": "9 years",
       "recipes": 5,
@@ -46,7 +46,7 @@
     },
     {
       "id": 6,
-      "image": "chef6.jpg",
+      "image": "https://html.themefax.com/RegFood/images/chef_1.jpg",
       "name": "Olivia Martinez",
       "experience": "11 years",
       "recipes": 4,
