@@ -1,0 +1,56 @@
+[
+  {
+    "id": 1,
+    "image": "https://html.themefax.com/RegFood/images/chef_4.jpg",
+    "name": "John Smith",
+    "experience": "10 years",
+    "recipes": 4,
+    "likes": 2500,
+    "bio": "John Smith is a renowned chef with a passion for creating delicious and innovative dishes. With 10 years of experience in the culinary industry, he has mastered the art of combining flavors and textures to delight the taste buds of his patrons."
+  },
+  {
+    "id": 2,
+    "image": "https://html.themefax.com/RegFood/images/chef_5.jpg",
+    "name": "Emily Johnson",
+    "experience": "8 years",
+    "recipes": 3,
+    "likes": 1800,
+    "bio": "Emily Johnson is a talented chef known for her expertise in creating exquisite desserts. With 8 years of experience, she has honed her skills in crafting delectable pastries, cakes, and confections that leave a lasting impression on anyone with a sweet tooth."
+  },
+  {
+    "id": 3,
+    "image": "https://html.themefax.com/RegFood/images/chef_4.jpg",
+    "name": "Michael Davis",
+    "experience": "12 years",
+    "recipes": 5,
+    "likes": 3200,
+    "bio": "Michael Davis is a seasoned chef who specializes in international cuisine. With 12 years of experience, he has traveled the world, immersing himself in diverse culinary traditions and incorporating unique flavors and techniques into his dishes."
+  },
+  {
+    "id": 4,
+    "image": "https://html.themefax.com/RegFood/images/chef_1.jpg",
+    "name": "Sophia Wilson",
+    "experience": "6 years",
+    "recipes": 4,
+    "likes": 2100,
+    "bio": "Sophia Wilson is a rising star in the culinary world, known for her creative approach to fusion cuisine. With 6 years of experience, she blends different culinary traditions to create innovative dishes that tantalize the palate and showcase her unique culinary perspective."
+  },
+  {
+    "id": 5,
+    "image": "https://html.themefax.com/RegFood/images/chef_5.jpg",
+    "name": "Daniel Brown",
+    "experience": "9 years",
+    "recipes": 5,
+    "likes": 2800,
+    "bio": "Daniel Brown is a passionate chef who has a deep understanding of farm-to-table cooking. With 9 years of experience, he prioritizes fresh, locally sourced ingredients in his recipes, ensuring that each dish highlights the natural flavors and quality of the produce."
+  },
+  {
+    "id": 6,
+    "image": "https://html.themefax.com/RegFood/images/chef_1.jpg",
+    "name": "Olivia Martinez",
+    "experience": "11 years",
+    "recipes": 4,
+    "likes": 2300,
+    "bio": "Olivia Martinez is a celebrated chef known for her expertise in seafood cuisine. With 11 years of experience, she has perfected the art of preparing and presenting a wide variety of seafood dishes, capturing the essence of the ocean in every bite."
+  }
+]
