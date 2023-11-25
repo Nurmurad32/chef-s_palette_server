@@ -1,146 +1,464 @@
 [
-    {
-      "chef_id": 1,
-      "name": "Spicy Garlic Shrimp",
-      "ingredients": ["Shrimp", "Garlic", "Red Pepper Flakes", "Olive Oil", "Lemon Juice"],
-      "cooking_method": "1. In a skillet, heat olive oil over medium heat. Add garlic and red pepper flakes.\n2. Add shrimp to the skillet and cook until pink and cooked through.\n3. Squeeze lemon juice over the shrimp.\n4. Serve hot.",
-      "rating": 4.5,
-      "recipe_image": "http://kodeforest.net/wp-demo/foodcourt/wp-content/uploads/2016/06/re-1600x900.jpg"
-    },
-    {
-      "chef_id": 1,
-      "name": "Grilled Salmon with Dill Sauce",
-      "ingredients": ["Salmon fillets", "Fresh dill", "Greek yogurt", "Lemon", "Salt and pepper"],
-      "cooking_method": "1. Preheat the grill.\n2. Season salmon fillets with salt and pepper.\n3. Grill the salmon for about 4-5 minutes per side, or until cooked to desired doneness.\n4. In a bowl, mix Greek yogurt, chopped dill, and lemon juice to make the dill sauce.\n5. Serve the grilled salmon with dill sauce on top.",
-      "rating": 4.8,
-      "recipe_image": "http://kodeforest.net/wp-demo/foodcourt/wp-content/uploads/2016/06/re-1600x900.jpg"
-    },
-    {
-      "chef_id": 1,
-      "name": "Pasta Primavera",
-      "ingredients": ["Pasta", "Assorted vegetables (e.g., bell peppers, zucchini, cherry tomatoes)", "Garlic", "Olive oil", "Parmesan cheese"],
-      "cooking_method": "1. Cook pasta according to package instructions.\n2. In a skillet, heat olive oil over medium heat. Add garlic and sauté until fragrant.\n3. Add the vegetables to the skillet and cook until tender-crisp.\n4. Drain the cooked pasta and add it to the skillet with the vegetables.\n5. Toss the pasta and vegetables together, adding more olive oil if needed.\n6. Serve with grated Parmesan cheese on top.",
-      "rating": 4.2,
-      "recipe_image": "http://kodeforest.net/wp-demo/foodcourt/wp-content/uploads/2016/06/re-1600x900.jpg"
-    },
-    {
-      "chef_id": 2,
-      "name": "Chocolate Lava Cake",
-      "ingredients": ["Unsalted butter", "Dark chocolate", "Eggs", "Sugar", "Flour"],
-      "cooking_method": "1. Preheat the oven.\n2. Melt butter and dark chocolate together.\n3. In a separate bowl, beat eggs and sugar until well combined.\n4. Add the melted chocolate mixture to the egg mixture and stir.\n5. Fold in the flour.\n6. Pour the batter into greased ramekins.\n7. Bake in the oven for a few minutes until the edges are set but the center is still soft.\n8. Remove from the oven and let it cool for a minute.\n9. Invert the ramekins onto plates and serve with ice cream.",
-      "rating": 4.6,
-      "recipe_image": "http://kodeforest.net/wp-demo/foodcourt/wp-content/uploads/2016/06/re-1600x900.jpg"
-    },
-    {
-      "chef_id": 2,
-      "name": "Mushroom Risotto",
-      "ingredients": ["Arborio rice", "Mushrooms", "Onion", "Vegetable broth", "Parmesan cheese"],
-      "cooking_method": "1. In a large skillet, heat oil over medium heat. Add chopped onions and sauté until translucent.\n2. Add sliced mushrooms and cook until they release their moisture.\n3. Add Arborio rice and stir to coat in oil.\n4. Gradually add vegetable broth, stirring frequently, until the rice is cooked and creamy.\n5. Stir in grated Parmesan cheese.\n6. Serve the mushroom risotto hot.",
-      "rating": 4.4,
-      "recipe_image": "http://kodeforest.net/wp-demo/foodcourt/wp-content/uploads/2016/06/re-1600x900.jpg"
-    },
-    {
-      "chef_id": 2,
-      "name": "Caprese Salad",
-      "ingredients": ["Tomatoes", "Fresh mozzarella cheese", "Fresh basil leaves", "Balsamic vinegar", "Extra virgin olive oil"],
-      "cooking_method": "1. Slice tomatoes and fresh mozzarella cheese.\n2. Arrange alternating slices of tomatoes and mozzarella on a serving dish.\n3. Garnish with fresh basil leaves.\n4. Drizzle balsamic vinegar and extra virgin olive oil over the salad.\n5. Season with salt and pepper to taste.\n6. Serve the Caprese salad at room temperature.",
-      "rating": 4.7,
-      "recipe_image": "https://www.themeenergy.com/themes/wordpress/social-chef/wp-content/uploads/2014/11/strawberry-273908_1280.jpg"
-    },
-    {
-      "chef_id": 3,
-      "name": "Roasted Chicken",
-      "ingredients": ["Whole chicken", "Olive oil", "Lemon", "Garlic", "Rosemary", "Salt and pepper"],
-      "cooking_method": "1. Preheat the oven.\n2. Rub the whole chicken with olive oil, lemon juice, minced garlic, and chopped rosemary.\n3. Season with salt and pepper.\n4. Place the chicken in a roasting pan and cook in the oven until the internal temperature reaches a safe level.\n5. Let the chicken rest for a few minutes before carving.\n6. Serve the roasted chicken with your favorite side dishes.",
-      "rating": 4.3,
-      "recipe_image": "https://www.themeenergy.com/themes/wordpress/social-chef/wp-content/uploads/2014/11/strawberry-273908_1280.jpg"
-    },
-    {
-      "chef_id": 3,
-      "name": "Beef Stir-Fry",
-      "ingredients": ["Beef", "Broccoli", "Bell peppers", "Soy sauce", "Ginger", "Garlic", "Sesame oil"],
-      "cooking_method": "1. Slice beef into thin strips.\n2. In a hot skillet, stir-fry beef until browned.\n3. Remove beef from the skillet and set aside.\n4. In the same skillet, stir-fry broccoli, bell peppers, ginger, and garlic.\n5. Return the beef to the skillet and add soy sauce.\n6. Stir-fry until the beef is cooked to your liking.\n7. Drizzle with sesame oil and serve the beef stir-fry with steamed rice.",
-      "rating": 4.1,
-      "recipe_image": "https://www.themeenergy.com/themes/wordpress/social-chef/wp-content/uploads/2014/11/strawberry-273908_1280.jpg"
-    },
-    {
-      "chef_id": 3,
-      "name": "Lemon Bars",
-      "ingredients": ["Butter", "Flour", "Powdered sugar", "Eggs", "Sugar", "Lemon juice", "Lemon zest"],
-      "cooking_method": "1. Preheat the oven.\n2. In a mixing bowl, combine melted butter, flour, and powdered sugar to make the crust.\n3. Press the crust mixture into a baking pan and bake until lightly golden.\n4. In another bowl, whisk together eggs, sugar, lemon juice, and lemon zest.\n5. Pour the lemon mixture over the baked crust.\n6. Bake again until the lemon filling is set.\n7. Let it cool and dust with powdered sugar.\n8. Cut into bars and serve.",
-      "rating": 4.5,
-      "recipe_image": "https://www.themeenergy.com/themes/wordpress/social-chef/wp-content/uploads/2014/11/strawberry-273908_1280.jpg"
-    },
-    {
-      "chef_id": 4,
-      "name": "Beef Wellington",
-      "ingredients": ["Beef tenderloin", "Puff pastry", "Mushrooms", "Dijon mustard", "Egg wash"],
-      "cooking_method": "1. Preheat the oven.\n2. Season the beef tenderloin with salt and pepper.\n3. Sear the beef in a hot skillet until browned on all sides.\n4. Brush the beef with Dijon mustard.\n5. Roll out puff pastry and place the seared beef in the center.\n6. Spread sautéed mushrooms over the beef.\n7. Wrap the puff pastry around the beef, sealing the edges.\n8. Brush the pastry with egg wash.\n9. Bake in the oven until the pastry is golden and the beef is cooked to your desired doneness.\n10. Let it rest before slicing and serving.",
-      "rating": 4.9,
-      "recipe_image": "https://www.themeenergy.com/themes/wordpress/social-chef/wp-content/uploads/2014/11/strawberry-273908_1280.jpg"
-    },
-    {
-      "chef_id": 4,
-      "name": "Garlic Mashed Potatoes",
-      "ingredients": ["Potatoes", "Garlic", "Butter", "Milk", "Salt and pepper"],
-      "cooking_method": "1. Peel and cut potatoes into cubes.\n2. Boil the potatoes until tender.\n3. In a separate saucepan, melt butter and sauté minced garlic.\n4. Drain the cooked potatoes and add them to the saucepan with the garlic butter.\n5. Mash the potatoes, gradually adding milk to achieve the desired consistency.\n6. Season with salt and pepper.\n7. Serve the garlic mashed potatoes hot.",
-      "rating": 4.7,
-      "recipe_image": "https://www.themeenergy.com/themes/wordpress/social-chef/wp-content/uploads/2014/11/strawberry-273908_1280.jpg"
-    },
-    {
-      "chef_id": 4,
-      "name": "Tiramisu",
-      "ingredients": ["Ladyfingers", "Espresso", "Mascarpone cheese", "Egg yolks", "Sugar", "Cocoa powder"],
-      "cooking_method": "1. Brew strong espresso and let it cool.\n2. In a mixing bowl, beat egg yolks and sugar until creamy.\n3. Add mascarpone cheese to the egg mixture and mix until well combined.\n4. Dip ladyfingers in the cooled espresso and layer them in a dish.\n5. Spread a layer of the mascarpone mixture over the ladyfingers.\n6. Repeat the layers until all ingredients are used, ending with a layer of mascarpone.\n7. Dust the top with cocoa powder.\n8. Refrigerate the tiramisu for a few hours or overnight before serving.",
-      "rating": 4.6,
-      "recipe_image": "https://www.themeenergy.com/themes/wordpress/social-chef/wp-content/uploads/2014/11/strawberry-273908_1280.jpg"
-    },
-    {
-      "chef_id": 5,
-      "name": "Chicken Parmesan",
-      "ingredients": ["Chicken breast", "Breadcrumbs", "Parmesan cheese", "Marinara sauce", "Mozzarella cheese", "Spaghetti"],
-      "cooking_method": "1. Preheat the oven.\n2. Coat chicken breasts in breadcrumbs mixed with grated Parmesan cheese.\n3. Heat oil in a skillet and cook the chicken until golden brown.\n4. Transfer the chicken to a baking dish and top with marinara sauce and mozzarella cheese.\n5. Bake in the oven until the cheese is melted and bubbly.\n6. Cook spaghetti according to package instructions.\n7. Serve the chicken Parmesan over spaghetti.",
-      "rating": 4.3,
-      "recipe_image": "https://www.themeenergy.com/themes/wordpress/social-chef/wp-content/uploads/2014/11/strawberry-273908_1280.jpg"
-    },
-    {
-      "chef_id": 5,
-      "name": "Caesar Salad",
-      "ingredients": ["Romaine lettuce", "Croutons", "Parmesan cheese", "Caesar dressing"],
-      "cooking_method": "1. Wash and dry romaine lettuce leaves.\n2. Tear the leaves into bite-sized pieces.\n3. In a bowl, toss the lettuce with croutons.\n4. Add grated Parmesan cheese.\n5. Drizzle Caesar dressing over the salad.\n6. Toss to coat evenly.\n7. Serve the Caesar salad chilled.",
-      "rating": 4.2,
-      "recipe_image": "https://www.themeenergy.com/themes/wordpress/social-chef/wp-content/uploads/2014/11/strawberry-273908_1280.jpg"
-    },
-    {
-      "chef_id": 5,
-      "name": "Lemon Garlic Shrimp Scampi",
-      "ingredients": ["Shrimp", "Garlic", "Lemon juice", "White wine", "Butter", "Parsley", "Spaghetti"],
-      "cooking_method": "1. Cook spaghetti according to package instructions.\n2. In a skillet, melt butter and sauté minced garlic.\n3. Add shrimp to the skillet and cook until pink.\n4. Pour in white wine and lemon juice.\n5. Simmer until the sauce thickens slightly.\n6. Toss cooked spaghetti with the shrimp scampi sauce.\n7. Garnish with chopped parsley.\n8. Serve the lemon garlic shrimp scampi hot.",
-      "rating": 4.4,
-      "recipe_image": "http://kodeforest.net/wp-demo/foodcourt/wp-content/uploads/2016/06/re-1600x900.jpg"
-    },
-    {
-      "chef_id": 6,
-      "name": "Beef Stroganoff",
-      "ingredients": ["Beef sirloin", "Onion", "Mushrooms", "Sour cream", "Beef broth", "Dijon mustard", "Egg noodles"],
-      "cooking_method": "1. Slice beef sirloin into thin strips.\n2. In a skillet, cook beef and diced onions until browned.\n3. Add sliced mushrooms and cook until they release their moisture.\n4. In a separate bowl, mix sour cream, beef broth, and Dijon mustard.\n5. Pour the sour cream mixture into the skillet with the beef and mushrooms.\n6. Simmer until the sauce thickens.\n7. Cook egg noodles according to package instructions.\n8. Serve the beef stroganoff over egg noodles.",
-      "rating": 4.7,
-      "recipe_image": "http://kodeforest.net/wp-demo/foodcourt/wp-content/uploads/2016/06/re-1600x900.jpg"
-    },
-    {
-      "chef_id": 6,
-      "name": "Baked Salmon with Lemon-Dill Sauce",
-      "ingredients": ["Salmon fillets", "Lemon", "Fresh dill", "Mayonnaise", "Dijon mustard"],
-      "cooking_method": "1. Preheat the oven.\n2. Season salmon fillets with salt, pepper, and lemon juice.\n3. Place the seasoned salmon on a baking sheet.\n4. In a bowl, mix mayonnaise, chopped fresh dill, and Dijon mustard to make the sauce.\n5. Spread the sauce over the salmon.\n6. Bake in the oven until the salmon is cooked through.\n7. Serve the baked salmon with lemon-dill sauce.",
-      "rating": 4.5,
-      "recipe_image": "http://kodeforest.net/wp-demo/foodcourt/wp-content/uploads/2016/06/re-1600x900.jpg"
-    },
-    {
-      "chef_id": 6,
-      "name": "Berry Cheesecake",
-      "ingredients": ["Graham cracker crust", "Cream cheese", "Sugar", "Vanilla extract", "Eggs", "Mixed berries", "Whipped cream"],
-      "cooking_method": "1. Preheat the oven.\n2. In a mixing bowl, beat cream cheese, sugar, and vanilla extract until smooth.\n3. Add eggs, one at a time, mixing well after each addition.\n4. Pour the cream cheese mixture into the graham cracker crust.\n5. Bake in the oven until the center is set.\n6. Let it cool and refrigerate for a few hours.\n7. Top the cheesecake with mixed berries.\n8. Serve the berry cheesecake chilled with a dollop of whipped cream.",
-      "rating": 4.6,
-      "recipe_image": "http://kodeforest.net/wp-demo/foodcourt/wp-content/uploads/2016/06/re-1600x900.jpg"
-    }
-  ] 
+  {
+    "id": 1,
+    "chef_id": 1,
+    "name": "Spicy Garlic Shrimp",
+    "ingredients": ["Shrimp", "Garlic", "Red Pepper Flakes", "Olive Oil", "Lemon Juice"],
+    "cooking_method": "1. In a skillet, heat olive oil over medium heat. Add garlic and red pepper flakes.\n2. Add shrimp to the skillet and cook until pink and cooked through.\n3. Squeeze lemon juice over the shrimp.\n4. Serve hot.",
+    "rating": 4.5,
+    "recipe_image": "http://kodeforest.net/wp-demo/foodcourt/wp-content/uploads/2016/06/re-1600x900.jpg",
+    "recipe_category": "1",
+    "description": "Spicy and flavorful shrimp with a zesty touch of lemon. A quick and delightful seafood dish."
+  },
+  {
+    "id": 2,
+    "chef_id": 1,
+    "name": "Classic American Meatloaf",
+    "ingredients": ["Ground beef", "Breadcrumbs", "Onion", "Ketchup", "Worcestershire sauce", "Egg", "Salt", "Pepper"],
+    "cooking_method": "1. Mix ingredients and form into a loaf.\n2. Bake until golden brown.\n3. Glaze with ketchup.\n4. Serve hot.",
+    "rating": 4.2,
+    "recipe_image": "https://img.freepik.com/free-photo/baked-chicken-wings-asian-style-tomatoes-sauce-plate_2829-10657.jpg?w=1060&t=st=1700572143~exp=1700572743~hmac=4380bd155b610b0f117fd3d1453a4a05a00891be90c2f977f4e5ddec90514ced",
+    "recipe_category": "2",
+    "description": "A classic American meatloaf with a perfect blend of ground beef, breadcrumbs, and savory seasonings. Comfort food at its finest."
+  },
+  {
+    "id": 3,
+    "chef_id": 1,
+    "name": "Southern Fried Chicken",
+    "ingredients": ["Chicken pieces", "Buttermilk", "Flour", "Paprika", "Garlic powder", "Salt", "Pepper", "Vegetable oil"],
+    "cooking_method": "1. Soak chicken in buttermilk.\n2. Coat with seasoned flour.\n3. Fry until crispy and golden.",
+    "rating": 4.7,
+    "recipe_image": "https://img.freepik.com/free-photo/fresh-pasta-with-hearty-bolognese-parmesan-cheese-generated-by-ai_188544-9469.jpg?w=1480&t=st=1700572179~exp=1700572779~hmac=fc734703a4e7c0f23983e6ec5a966ad5f936595b84dc41b47740add7a393beb9",
+    "recipe_category": "2",
+    "description": "Southern-style fried chicken with a crispy exterior and tender, juicy inside. A delightful combination of buttermilk and flavorful spices."
+  },
+  {
+    "id": 4,
+    "chef_id": 1,
+    "name": "New York Cheesecake",
+    "ingredients": ["Cream cheese", "Sugar", "Eggs", "Vanilla extract", "Graham cracker crust"],
+    "cooking_method": "1. Mix and bake the cheesecake.\n2. Chill until set.\n3. Top with fruit compote if desired.",
+    "rating": 4.9,
+    "recipe_image": "https://img.freepik.com/free-photo/delicious-fried-chicken-plate_144627-27383.jpg?w=1380&t=st=1700572148~exp=1700572748~hmac=6061a323070959da6b5c8b2c0efe712030a899656462e1b2c5291724d3c02973",
+    "recipe_category": "3",
+    "description": "Indulge in the velvety richness of New York Cheesecake, a heavenly dessert featuring a creamy texture and a buttery graham cracker crust."
+  },
+  {
+    "id": 5,
+    "chef_id": 2,
+    "name": "BBQ Pulled Pork Sandwiches",
+    "ingredients": ["Pork shoulder", "Barbecue sauce", "Buns", "Coleslaw"],
+    "cooking_method": "1. Slow-cook pork.\n2. Shred and mix with barbecue sauce.\n3. Serve on buns with coleslaw.",
+    "rating": 4.8,
+    "recipe_image": "https://img.freepik.com/free-photo/side-view-pilaf-with-stewed-beef-meat-plate_141793-5057.jpg?w=1380&t=st=1700572187~exp=1700572787~hmac=afb95d2c73d691ec04f63ff5b7af20024accf009ebc173cc2422c907d2b046a5",
+    "recipe_category": "4",
+    "description": "BBQ pulled pork perfection! Slow-cooked pork, generously coated in barbecue sauce, piled high on buns, and topped with refreshing coleslaw."
+  },
+  {
+    "id": 6,
+    "chef_id": 2,
+    "name": "Grilled Corn on the Cob",
+    "ingredients": ["Corn on the cob", "Butter", "Salt", "Pepper"],
+    "cooking_method": "1. Grill corn until charred.\n2. Brush with butter.\n3. Season with salt and pepper.",
+    "rating": 4.6,
+    "recipe_image": "https://img.freepik.com/free-photo/chicken-skewers-with-slices-sweet-peppers-dill_2829-18813.jpg?w=1380&t=st=1700572157~exp=1700572757~hmac=b574c30bdd39eadd80abbe686ca693405bb59fe9b837fa91e34019cacf41769c",
+    "recipe_category": "5",
+    "description": "Deliciously charred grilled corn on the cob, brushed with butter and seasoned to perfection. A simple and irresistible side dish."
+  },
+  {
+    "id": 7,
+    "chef_id": 2,
+    "name": "Smoked Brisket",
+    "ingredients": ["Beef brisket", "Dry rub", "Wood chips"],
+    "cooking_method": "1. Rub brisket with spices.\n2. Smoke low and slow until tender.",
+    "rating": 4.9,
+    "recipe_image": "https://img.freepik.com/free-photo/meat-stew-with-potatoes-spices-broth_114579-4595.jpg?w=1380&t=st=1700572162~exp=1700572762~hmac=84e3ede536bbbdb953f18bce67bd60dff3343b2ca5fff838521cfd9c7cc5886f",
+    "recipe_category": "12",
+    "description": "Indulge in the rich and smoky flavor of smoked brisket, seasoned with a perfect dry rub and slow-cooked to mouthwatering perfection."
+  },
+  {
+    "id": 8,
+    "chef_id": 2,
+    "name": "Honey Mustard Glazed Ribs",
+    "ingredients": ["Pork ribs", "Honey", "Dijon mustard", "Garlic", "Soy sauce"],
+    "cooking_method": "1. Bake ribs with honey mustard glaze.\n2. Cook until caramelized and tender.",
+    "rating": 4.7,
+    "recipe_image": "https://img.freepik.com/free-photo/well-done-steak-homemade-potatoes_140725-3989.jpg?w=740&t=st=1700572191~exp=1700572791~hmac=24c1d99664bdd030422eaee35624750766ee60d816a5c4449ce2183819c0e61c",
+    "recipe_category": "6",
+    "description": "Mouthwatering honey mustard glazed ribs, baked to perfection. The perfect combination of sweet and savory for a delightful dining experience."
+  },
+  {
+    "id": 9,
+    "chef_id": 3,
+    "name": "Grilled Salmon with Lemon-Dill Sauce",
+    "ingredients": ["Salmon fillet", "Olive oil", "Lemon", "Dill", "Salt", "Pepper"],
+    "cooking_method": "1. Brush salmon with olive oil.\n2. Grill until cooked.\n3. Mix lemon and dill for sauce.\n4. Serve with sauce.",
+    "rating": 4.8,
+    "recipe_image": "https://img.freepik.com/free-photo/close-up-homemade-soup-with-chicken-spices-set_140725-114892.jpg?w=1380&t=st=1700572172~exp=1700572772~hmac=b70b3d10b12d691c0edbcf9cfef90ba6949aecb91cf61b7f62a5cc33e1d83e21",
+    "recipe_category": "1",
+    "description": "Grilled salmon perfection! Brushed with olive oil and served with a zesty lemon-dill sauce. A delightful dish for seafood enthusiasts."
+  },
+  {
+    "id": 10,
+    "chef_id": 3,
+    "name": "Chicken Alfredo Pasta",
+    "ingredients": ["Chicken breast", "Fettuccine pasta", "Heavy cream", "Parmesan cheese", "Garlic", "Butter"],
+    "cooking_method": "1. Cook pasta according to package instructions.\n2. Sauté chicken and garlic in butter.\n3. Add cream and Parmesan.\n4. Toss with cooked pasta.",
+    "rating": 4.6,
+    "recipe_image": "https://img.freepik.com/free-photo/mexican-tacos-with-beef-tomato-sauce-salsa_2829-14218.jpg?w=1380&t=st=1700572207~exp=1700572807~hmac=060bf204975252b26d417fb34cd30d6aeada7c627421e50093cadc67dc6f87b7",
+    "recipe_category": "7",
+    "description": "Indulge in the creamy goodness of Chicken Alfredo Pasta, a delightful blend of succulent chicken, rich Parmesan, and buttery fettuccine."
+  },
+  {
+    "id": 11,
+    "chef_id": 3,
+    "name": "Mango Salsa Chicken",
+    "ingredients": ["Chicken thighs", "Mango", "Red onion", "Cilantro", "Lime juice", "Jalapeño", "Salt"],
+    "cooking_method": "1. Grill chicken until cooked.\n2. Mix mango, red onion, cilantro, lime juice, and jalapeño for salsa.\n3. Serve chicken topped with salsa.",
+    "rating": 4.7,
+    "recipe_image": "https://img.freepik.com/free-photo/meat-plate-with-potatoes-souce_144627-6148.jpg?w=1380&t=st=1700572213~exp=1700572813~hmac=1647b065f6ed67a73ede05d086b02337837a8710ae1bdc56d8deae3a734d3fcc",
+    "recipe_category": "12",
+    "description": "Enjoy the tropical flavors of Mango Salsa Chicken, where perfectly grilled chicken is complemented by a vibrant salsa of mango, red onion, cilantro, and jalapeño."
+  },
+  {
+    "id": 12,
+    "chef_id": 3,
+    "name": "Chocolate Lava Cake",
+    "ingredients": ["Chocolate", "Butter", "Sugar", "Eggs", "Flour"],
+    "cooking_method": "1. Melt chocolate and butter.\n2. Mix with sugar, eggs, and flour.\n3. Bake until the outer layer is set but the center is still gooey.",
+    "rating": 4.9,
+    "recipe_image": "https://img.freepik.com/free-photo/fresh-gourmet-sandwich-with-meat-vegetables-generative-ai_188544-8106.jpg?w=1380&t=st=1700572217~exp=1700572817~hmac=08a5b57054c3ef7612853cc3037568d5f8d28398ec1213f92aea27158c7a1437",
+    "recipe_category": "3",
+    "description": "Indulge in the divine pleasure of Chocolate Lava Cake, a decadent dessert where the outer layer is delicately baked while the center remains irresistibly gooey."
+  },
+  {
+    "id": 13,
+    "chef_id": 4,
+    "name": "Tex-Mex Enchiladas",
+    "ingredients": ["Chicken or beef", "Tortillas", "Enchilada sauce", "Cheese", "Onion", "Bell peppers", "Cilantro"],
+    "cooking_method": "1. Cook chicken or beef.\n2. Fill tortillas with meat, cheese, onions, and bell peppers.\n3. Roll and place in a baking dish.\n4. Pour enchilada sauce over, bake until cheese is melted.",
+    "rating": 4.6,
+    "recipe_image": "https://img.freepik.com/free-photo/delicious-food-table_23-2150857824.jpg?t=st=1700572227~exp=1700575827~hmac=198f9cfa1dff44eb67d4f70fe05a21882638b5af64f3ce7a4dcba19acfe89984&w=1380",
+    "recipe_category": "9",
+    "description": "Savor the bold and savory Tex-Mex flavors with these Enchiladas, featuring seasoned chicken or beef, melted cheese, and a burst of freshness from onions and bell peppers."
+  },
+  {
+    "id": 14,
+    "chef_id": 4,
+    "name": "Caprese Salad",
+    "ingredients": ["Tomatoes", "Fresh mozzarella", "Basil leaves", "Balsamic glaze", "Olive oil", "Salt", "Pepper"],
+    "cooking_method": "1. Slice tomatoes and mozzarella.\n2. Arrange on a plate with basil leaves.\n3. Drizzle with balsamic glaze and olive oil.\n4. Sprinkle with salt and pepper.",
+    "rating": 4.7,
+    "recipe_image": "https://img.freepik.com/free-photo/side-view-shawarma-with-fried-potatoes-board-cookware_176474-3215.jpg?w=826&t=st=1700572231~exp=1700572831~hmac=9332689cbbed13083fa2dbe70bf385d963860466da1a38423b8a7bd7618ff363",
+    "recipe_category": "7",
+    "description": "Experience the freshness of Caprese Salad, a classic Italian dish featuring ripe tomatoes, creamy fresh mozzarella, and aromatic basil drizzled with balsamic glaze and olive oil."
+  },
+  {
+    "id": 15,
+    "chef_id": 4,
+    "name": "Pumpkin Spice Pancakes",
+    "ingredients": ["Pumpkin puree", "Flour", "Milk", "Eggs", "Cinnamon", "Nutmeg", "Maple syrup"],
+    "cooking_method": "1. Mix pumpkin puree, flour, milk, eggs, and spices.\n2. Cook on a griddle until golden brown.\n3. Serve with maple syrup.",
+    "rating": 4.5,
+    "recipe_image": "https://img.freepik.com/free-photo/pasta-spaghetti-with-shrimps-sauce_1220-5072.jpg?w=1380&t=st=1700572247~exp=1700572847~hmac=234c885e1022f45b9a7064ee54a6467a84a0f97bb55684abaf806c7451fc33cb",
+    "recipe_category": "10",
+    "description": "Fall in love with the warm and comforting Pumpkin Spice Pancakes, a delightful blend of pumpkin puree, spices, and fluffy goodness served with a drizzle of maple syrup."
+  },
+  {
+    "id": 16,
+    "chef_id": 4,
+    "name": "Lemon Blueberry Cheesecake Bars",
+    "ingredients": ["Graham cracker crust", "Cream cheese", "Sugar", "Eggs", "Lemon juice", "Blueberries"],
+    "cooking_method": "1. Prepare graham cracker crust.\n2. Mix cream cheese, sugar, eggs, and lemon juice.\n3. Pour over the crust, add blueberries.\n4. Bake until set, cool, and refrigerate.",
+    "rating": 4.8,
+    "recipe_image": "https://img.freepik.com/free-photo/penne-pasta-tomato-sauce-with-chicken-tomatoes-wooden-table_2829-19739.jpg?w=1380&t=st=1700572252~exp=1700572852~hmac=6230c3d28da1fd3b00ffe4a23ef43efcacfdbe3e5b0985ba8a4f4ab419be4c8f",
+    "recipe_category": "3",
+    "description": "Delight your taste buds with these Lemon Blueberry Cheesecake Bars. A perfect blend of sweet and tart flavors, with a creamy texture and a burst of blueberries on a graham cracker crust."
+  },
+  {
+    "id": 25,
+    "chef_id": 5,
+    "name": "Cajun Shrimp Pasta",
+    "ingredients": ["Shrimp", "Cajun seasoning", "Cream", "Parmesan cheese", "Bell peppers", "Onion"],
+    "cooking_method": "1. Season shrimp with Cajun seasoning.\n2. Cook pasta.\n3. Sauté bell peppers and onions.\n4. Add shrimp, cream, and Parmesan to the pan. Toss with cooked pasta.",
+    "rating": 4.9,
+    "recipe_image": "https://img.freepik.com/free-photo/tagliatelle-pasta-with-tomatoes-chicken_2829-18003.jpg?w=1380&t=st=1700572259~exp=1700572859~hmac=a5e1531cfca807dd60736e696a9e65b43cd0802ef7b464e155b458f87a76f614",
+    "recipe_category": "8",
+    "description": "Indulge in the bold and spicy flavors of Cajun Shrimp Pasta. Succulent shrimp, coated in a rich and creamy Cajun-seasoned sauce, tossed with pasta and vibrant vegetables."
+  },
+  {
+    "id": 26,
+    "chef_id": 5,
+    "name": "Apple Cider Glazed Chicken",
+    "ingredients": ["Chicken thighs", "Apple cider", "Dijon mustard", "Maple syrup", "Rosemary", "Salt", "Pepper"],
+    "cooking_method": "1. Brown chicken thighs.\n2. Mix apple cider, Dijon mustard, maple syrup, and rosemary.\n3. Pour over chicken, bake until glazed.\n4. Season with salt and pepper.",
+    "rating": 4.7,
+    "recipe_image": "https://img.freepik.com/free-photo/deep-fried-fhicken-roll-dark-surface_1150-43584.jpg?w=1380&t=st=1700572264~exp=1700572864~hmac=36e45aafc8786cba0169f506e2affc36a27a933cbe0ce81c653ce68e5dc764a9",
+    "recipe_category": "7",
+    "description": "Savor the sweet and savory harmony of Apple Cider Glazed Chicken. Succulent chicken thighs glazed with a flavorful mixture of apple cider, Dijon mustard, and maple syrup."
+  },
+  {
+    "id": 27,
+    "chef_id": 5,
+    "name": "Quinoa and Black Bean Salad",
+    "ingredients": ["Quinoa", "Black beans", "Corn", "Tomatoes", "Avocado", "Cilantro", "Lime juice"],
+    "cooking_method": "1. Cook quinoa.\n2. Mix with black beans, corn, tomatoes, avocado, and cilantro.\n3. Dress with lime juice.\n4. Serve chilled.",
+    "rating": 4.6,
+    "recipe_image": "https://img.freepik.com/free-photo/homemade-sanwich-breakfast-set-table-fast-food-morning-set-concept_1150-9069.jpg?w=1380&t=st=1700572302~exp=1700572902~hmac=81f150329f00dc094ccebe19ffebef4c258226dfb354043732c2d8b146507623",
+    "recipe_category": "5",
+    "description": "Refresh your palate with this vibrant Quinoa and Black Bean Salad. A delightful medley of quinoa, black beans, corn, tomatoes, avocado, and cilantro, dressed with zesty lime juice."
+  },
+  {
+    "id": 28,
+    "chef_id": 5,
+    "name": "Chocolate Hazelnut Tart",
+    "ingredients": ["Chocolate crust", "Hazelnut spread", "Heavy cream", "Chocolate chips", "Hazelnuts"],
+    "cooking_method": "1. Spread hazelnut spread over chocolate crust.\n2. Heat cream, pour over chocolate chips, stir until smooth.\n3. Pour chocolate over hazelnut spread.\n4. Garnish with chopped hazelnuts.",
+    "rating": 4.8,
+    "recipe_image": "https://img.freepik.com/free-photo/baked-chicken-wings-asian-style-tomatoes-sauce-plate_2829-10657.jpg?w=1060&t=st=1700572143~exp=1700572743~hmac=4380bd155b610b0f117fd3d1453a4a05a00891be90c2f977f4e5ddec90514ced",
+    "recipe_category": "3",
+    "description": "Treat yourself to the luscious Chocolate Hazelnut Tart. A decadent combination of a chocolate crust, velvety hazelnut spread, and a smooth layer of chocolate, garnished with chopped hazelnuts."
+  },
+  {
+    "id": 29,
+    "chef_id": 6,
+    "name": "Lobster Mac and Cheese",
+    "ingredients": ["Lobster meat", "Macaroni", "Cheese sauce", "Butter", "Flour", "Milk", "Cheddar cheese"],
+    "cooking_method": "1. Cook macaroni.\n2. Make a cheese sauce with butter, flour, milk, and cheddar cheese.\n3. Mix in lobster meat.\n4. Combine with cooked macaroni.",
+    "rating": 4.9,
+    "recipe_image": "https://img.freepik.com/free-photo/delicious-fried-chicken-plate_144627-27383.jpg?w=1380&t=st=1700572148~exp=1700572748~hmac=6061a323070959da6b5c8b2c0efe712030a899656462e1b2c5291724d3c02973",
+    "recipe_category": "1",
+    "description": "Indulge in luxury with Lobster Mac and Cheese. Succulent lobster meat combined with perfectly cooked macaroni, smothered in a rich and creamy cheese sauce."
+  },
+  {
+    "id": 30,
+    "chef_id": 6,
+    "name": "Chicken and Waffles",
+    "ingredients": ["Chicken wings", "Waffle batter", "Maple syrup", "Butter", "Salt", "Pepper"],
+    "cooking_method": "1. Fry chicken wings until crispy.\n2. Make waffles.\n3. Serve chicken on top of waffles.\n4. Drizzle with maple syrup and butter.",
+    "rating": 4.7,
+    "recipe_image": "https://img.freepik.com/free-photo/chicken-skewers-with-slices-sweet-peppers-dill_2829-18813.jpg?w=1380&t=st=1700572157~exp=1700572757~hmac=b574c30bdd39eadd80abbe686ca693405bb59fe9b837fa91e34019cacf41769c",
+    "recipe_category": "9",
+    "description": "Experience the perfect harmony of flavors with Chicken and Waffles. Crispy fried chicken wings served on top of fluffy waffles, drizzled with a delightful blend of maple syrup and butter."
+  },
+  {
+    "id": 31,
+    "chef_id": 6,
+    "name": "Caprese Stuffed Avocado",
+    "ingredients": ["Avocado", "Cherry tomatoes", "Fresh mozzarella", "Balsamic glaze", "Basil leaves", "Salt", "Pepper"],
+    "cooking_method": "1. Halve and pit the avocado.\n2. Stuff with cherry tomatoes, fresh mozzarella, and basil leaves.\n3. Drizzle with balsamic glaze.\n4. Season with salt and pepper.",
+    "rating": 4.6,
+    "recipe_image": "https://img.freepik.com/free-photo/meat-stew-with-potatoes-spices-broth_114579-4595.jpg?w=1380&t=st=1700572162~exp=1700572762~hmac=84e3ede536bbbdb953f18bce67bd60dff3343b2ca5fff838521cfd9c7cc5886f",
+    "recipe_category": "5",
+    "description": "Experience the perfect fusion of creamy and savory with Caprese Stuffed Avocado. Halved avocados are filled with a delightful mix of cherry tomatoes, fresh mozzarella, and basil leaves, drizzled with balsamic glaze."
+  },
+  {
+    "id": 32,
+    "chef_id": 6,
+    "name": "Mango Coconut Rice",
+    "ingredients": ["Basmati rice", "Coconut milk", "Mango", "Cilantro", "Lime zest", "Salt"],
+    "cooking_method": "1. Cook rice with coconut milk.\n2. Fold in diced mango, chopped cilantro, and lime zest.\n3. Season with salt.\n4. Fluff and serve.",
+    "rating": 4.8,
+    "recipe_image": "https://img.freepik.com/free-photo/close-up-homemade-soup-with-chicken-spices-set_140725-114892.jpg?w=1380&t=st=1700572172~exp=1700572772~hmac=b70b3d10b12d691c0edbcf9cfef90ba6949aecb91cf61b7f62a5cc33e1d83e21",
+    "recipe_category": "11",
+    "description": "Transport your taste buds to the tropics with Mango Coconut Rice. Fragrant basmati rice is cooked in rich coconut milk, then mixed with sweet diced mango, cilantro, and a hint of lime zest."
+  },
+  {
+    "id": 33,
+    "chef_id": 7,
+    "name": "Spicy Garlic Shrimp",
+    "ingredients": ["Shrimp", "Garlic", "Red Pepper Flakes", "Olive Oil", "Lemon Juice"],
+    "cooking_method": "1. In a skillet, heat olive oil over medium heat. Add garlic and red pepper flakes.\n2. Add shrimp to the skillet and cook until pink and cooked through.\n3. Squeeze lemon juice over the shrimp.\n4. Serve hot.",
+    "rating": 4.5,
+    "recipe_image": "http://kodeforest.net/wp-demo/foodcourt/wp-content/uploads/2016/06/re-1600x900.jpg",
+    "recipe_category": "4",
+    "description": "Ignite your taste buds with Spicy Garlic Shrimp. Succulent shrimp are sautéed in garlic-infused olive oil, sprinkled with red pepper flakes, and finished with a burst of refreshing lemon juice."
+  },
+  {
+    "id": 34,
+    "chef_id": 7,
+    "name": "Grilled Salmon with Dill Sauce",
+    "ingredients": ["Salmon fillets", "Fresh dill", "Greek yogurt", "Lemon", "Salt and pepper"],
+    "cooking_method": "1. Preheat the grill.\n2. Season salmon fillets with salt and pepper.\n3. Grill the salmon for about 4-5 minutes per side, or until cooked to desired doneness.\n4. In a bowl, mix Greek yogurt, chopped dill, and lemon juice to make the dill sauce.\n5. Serve the grilled salmon with dill sauce on top.",
+    "rating": 4.8,
+    "recipe_image": "http://kodeforest.net/wp-demo/foodcourt/wp-content/uploads/2016/06/re-1600x900.jpg",
+    "recipe_category": "10",
+    "description": "Elevate your dining experience with Grilled Salmon with Dill Sauce. Perfectly grilled salmon fillets, seasoned to perfection, are adorned with a creamy and zesty dill sauce."
+  },
+  {
+    "id": 35,
+    "chef_id": 7,
+    "name": "Pasta Primavera",
+    "ingredients": ["8", "Assorted vegetables (e.g., bell peppers, zucchini, cherry tomatoes)", "Garlic", "Olive oil", "Parmesan cheese"],
+    "cooking_method": "1. Cook pasta according to package instructions.\n2. In a skillet, heat olive oil over medium heat. Add garlic and sauté until fragrant.\n3. Add the vegetables to the skillet and cook until tender-crisp.\n4. Drain the cooked pasta and add it to the skillet with the vegetables.\n5. Toss the pasta and vegetables together, adding more olive oil if needed.\n6. Serve with grated Parmesan cheese on top.",
+    "rating": 4.2,
+    "recipe_image": "http://kodeforest.net/wp-demo/foodcourt/wp-content/uploads/2016/06/re-1600x900.jpg",
+    "recipe_category": "2",
+    "description": "Delight in the freshness of Pasta Primavera. A medley of colorful vegetables, sautéed to perfection, tossed with al dente pasta, and finished with a generous sprinkle of grated Parmesan cheese."
+  },
+  {
+    "id": 36,
+    "chef_id": 7,
+    "name": "Chocolate Lava Cake",
+    "ingredients": ["Unsalted butter", "Dark chocolate", "Eggs", "Sugar", "Flour"],
+    "cooking_method": "1. Preheat the oven.\n2. Melt butter and dark chocolate together.\n3. In a separate bowl, beat eggs and sugar until well combined.\n4. Add the melted chocolate mixture to the egg mixture and stir.\n5. Fold in the flour.\n6. Pour the batter into greased ramekins.\n7. Bake in the oven for a few minutes until the edges are set but the center is still soft.\n8. Remove from the oven and let it cool for a minute.\n9. Invert the ramekins onto plates and serve with ice cream.",
+    "rating": 4.6,
+    "recipe_image": "http://kodeforest.net/wp-demo/foodcourt/wp-content/uploads/2016/06/re-1600x900.jpg",
+    "recipe_category": "2",
+    "description": "Indulge your senses with the divine richness of Chocolate Lava Cake. Each bite is a heavenly experience as the warm, gooey center of dark chocolate flows out, complemented by the perfect balance of sweetness."
+  },
+  {
+    "id": 37,
+    "chef_id": 7,
+    "name": "Mushroom Risotto",
+    "ingredients": ["Arborio rice", "Mushrooms", "Onion", "Vegetable broth", "Parmesan cheese"],
+    "cooking_method": "1. In a large skillet, heat oil over medium heat. Add chopped onions and sauté until translucent.\n2. Add sliced mushrooms and cook until they release their moisture.\n3. Add Arborio rice and stir to coat in oil.\n4. Gradually add vegetable broth, stirring frequently, until the rice is cooked and creamy.\n5. Stir in grated Parmesan cheese.\n6. Serve the mushroom risotto hot.",
+    "rating": 4.4,
+    "recipe_image": "http://kodeforest.net/wp-demo/foodcourt/wp-content/uploads/2016/06/re-1600x900.jpg",
+    "recipe_category": "4",
+    "description": "Savor the rich and velvety goodness of Mushroom Risotto. Creamy Arborio rice is infused with the earthy flavors of mushrooms and enhanced with the nuttiness of Parmesan cheese."
+  },
+  {
+    "id": 38,
+    "chef_id": 8,
+    "name": "Caprese Salad",
+    "ingredients": ["Tomatoes", "Fresh mozzarella cheese", "Fresh basil leaves", "Balsamic vinegar", "Extra virgin olive oil"],
+    "cooking_method": "1. Slice tomatoes and fresh mozzarella cheese.\n2. Arrange alternating slices of tomatoes and mozzarella on a serving dish.\n3. Garnish with fresh basil leaves.\n4. Drizzle balsamic vinegar and extra virgin olive oil over the salad.\n5. Season with salt and pepper to taste.\n6. Serve the Caprese salad at room temperature.",
+    "rating": 4.7,
+    "recipe_image": "https://www.themeenergy.com/themes/wordpress/social-chef/wp-content/uploads/2014/11/strawberry-273908_1280.jpg",
+    "recipe_category": "4",
+    "description": "Experience the freshness of summer with Caprese Salad. Vibrant tomatoes and fresh mozzarella are artfully arranged, drizzled with balsamic vinegar and extra virgin olive oil, and crowned with fragrant basil leaves."
+  },
+  {
+    "id": 39,
+    "chef_id": 8,
+    "name": "Roasted Chicken",
+    "ingredients": ["Whole chicken", "Olive oil", "Lemon", "Garlic", "Rosemary", "Salt and pepper"],
+    "cooking_method": "1. Preheat the oven.\n2. Rub the whole chicken with olive oil, lemon juice, minced garlic, and chopped rosemary.\n3. Season with salt and pepper.\n4. Place the chicken in a roasting pan and cook in the oven until the internal temperature reaches a safe level.\n5. Let the chicken rest for a few minutes before carving.\n6. Serve the roasted chicken with your favorite side dishes.",
+    "rating": 4.3,
+    "recipe_image": "https://www.themeenergy.com/themes/wordpress/social-chef/wp-content/uploads/2014/11/strawberry-273908_1280.jpg",
+    "recipe_category": "12",
+    "description": "Delight in the classic perfection of Roasted Chicken. Succulent whole chicken, rubbed with a medley of olive oil, lemon, garlic, and rosemary, is roasted to golden perfection, delivering a symphony of flavors with every bite."
+  },
+  {
+    "id": 40,
+    "chef_id": 8,
+    "name": "Beef Stir-Fry",
+    "ingredients": ["Beef", "Broccoli", "Bell peppers", "Soy sauce", "Ginger", "Garlic", "Sesame oil"],
+    "cooking_method": "1. Slice beef into thin strips.\n2. In a hot skillet, stir-fry beef until browned.\n3. Remove beef from the skillet and set aside.\n4. In the same skillet, stir-fry broccoli, bell peppers, ginger, and garlic.\n5. Return the beef to the skillet and add soy sauce.\n6. Stir-fry until the beef is cooked to your liking.\n7. Drizzle with sesame oil and serve the beef stir-fry with steamed rice.",
+    "rating": 4.1,
+    "recipe_image": "https://www.themeenergy.com/themes/wordpress/social-chef/wp-content/uploads/2014/11/strawberry-273908_1280.jpg",
+    "recipe_category": "12",
+    "description": "Embark on a journey of bold flavors with Beef Stir-Fry. Tender strips of beef are wok-tossed with vibrant broccoli, bell peppers, and aromatic ginger, creating a savory masterpiece finished with a drizzle of sesame oil."
+  },
+  {
+    "id": 41,
+    "chef_id": 8,
+    "name": "Lemon Bars",
+    "ingredients": ["Butter", "Flour", "Powdered sugar", "Eggs", "Sugar", "Lemon juice", "Lemon zest"],
+    "cooking_method": "1. Preheat the oven.\n2. In a mixing bowl, combine melted butter, flour, and powdered sugar to make the crust.\n3. Press the crust mixture into a baking pan and bake until lightly golden.\n4. In another bowl, whisk together eggs, sugar, lemon juice, and lemon zest.\n5. Pour the lemon mixture over the baked crust.\n6. Bake again until the lemon filling is set.\n7. Let it cool and dust with powdered sugar.\n8. Cut into bars and serve.",
+    "rating": 4.5,
+    "recipe_image": "https://www.themeenergy.com/themes/wordpress/social-chef/wp-content/uploads/2014/11/strawberry-273908_1280.jpg",
+    "recipe_category": "7",
+    "description": "Brighten your day with the zesty goodness of Lemon Bars. A buttery crust cradles a luscious lemon filling, creating a delightful treat that balances sweetness with a refreshing citrus kick."
+  },
+  {
+    "id": 42,
+    "chef_id": 9,
+    "name": "Beef Wellington",
+    "ingredients": ["Beef tenderloin", "Puff pastry", "Mushrooms", "Dijon mustard", "Egg wash"],
+    "cooking_method": "1. Preheat the oven.\n2. Season the beef tenderloin with salt and pepper.\n3. Sear the beef in a hot skillet until browned on all sides.\n4. Brush the beef with Dijon mustard.\n5. Roll out puff pastry and place the seared beef in the center.\n6. Spread sautéed mushrooms over the beef.\n7. Wrap the puff pastry around the beef, sealing the edges.\n8. Brush the pastry with egg wash.\n9. Bake in the oven until the pastry is golden and the beef is cooked to your desired doneness.\n10. Let it rest before slicing and serving.",
+    "rating": 4.9,
+    "recipe_image": "https://www.themeenergy.com/themes/wordpress/social-chef/wp-content/uploads/2014/11/strawberry-273908_1280.jpg",
+    "recipe_category": "8",
+    "description": "Elevate your dining experience with Beef Wellington. A succulent beef tenderloin, seared to perfection, is enrobed in layers of savory mushrooms and flaky puff pastry, creating a culinary masterpiece that delights the senses."
+  },
+  {
+    "id": 43,
+    "chef_id": 9,
+    "name": "Garlic Mashed Potatoes",
+    "ingredients": ["Potatoes", "Garlic", "Butter", "Milk", "Salt and pepper"],
+    "cooking_method": "1. Peel and cut potatoes into cubes.\n2. Boil the potatoes until tender.\n3. In a separate saucepan, melt butter and sauté minced garlic.\n4. Drain the cooked potatoes and add them to the saucepan with the garlic butter.\n5. Mash the potatoes, gradually adding milk to achieve the desired consistency.\n6. Season with salt and pepper.\n7. Serve the garlic mashed potatoes hot.",
+    "rating": 4.7,
+    "recipe_image": "https://www.themeenergy.com/themes/wordpress/social-chef/wp-content/uploads/2014/11/strawberry-273908_1280.jpg",
+    "recipe_category": "7",
+    "description": "Indulge in comfort with Garlic Mashed Potatoes. Creamy potatoes, mashed to perfection and infused with aromatic garlic butter, offer a side dish that's both satisfying and irresistibly flavorful."
+  },
+  {
+    "id": 44,
+    "chef_id": 9,
+    "name": "Tiramisu",
+    "ingredients": ["Ladyfingers", "Espresso", "Mascarpone cheese", "Egg yolks", "Sugar", "Cocoa powder"],
+    "cooking_method": "1. Brew strong espresso and let it cool.\n2. In a mixing bowl, beat egg yolks and sugar until creamy.\n3. Add mascarpone cheese to the egg mixture and mix until well combined.\n4. Dip ladyfingers in the cooled espresso and layer them in a dish.\n5. Spread a layer of the mascarpone mixture over the ladyfingers.\n6. Repeat the layers until all ingredients are used, ending with a layer of mascarpone.\n7. Dust the top with cocoa powder.\n8. Refrigerate the tiramisu for a few hours or overnight before serving.",
+    "rating": 4.6,
+    "recipe_image": "https://www.themeenergy.com/themes/wordpress/social-chef/wp-content/uploads/2014/11/strawberry-273908_1280.jpg",
+    "recipe_category": "9",
+    "description": "Transport yourself to Italy with Tiramisu. Layers of delicate ladyfingers soaked in espresso and embraced by luscious mascarpone cheese create a dessert that's both indulgent and irresistibly decadent."
+  },
+  {
+    "id": 45,
+    "chef_id": 9,
+    "name": "Chicken Parmesan",
+    "ingredients": ["Chicken breast", "Breadcrumbs", "Parmesan cheese", "Marinara sauce", "Mozzarella cheese", "Spaghetti"],
+    "cooking_method": "1. Preheat the oven.\n2. Coat chicken breasts in breadcrumbs mixed with grated Parmesan cheese.\n3. Heat oil in a skillet and cook the chicken until golden brown.\n4. Transfer the chicken to a baking dish and top with marinara sauce and mozzarella cheese.\n5. Bake in the oven until the cheese is melted and bubbly.\n6. Cook spaghetti according to package instructions.\n7. Serve the chicken Parmesan over spaghetti.",
+    "rating": 4.3,
+    "recipe_image": "https://www.themeenergy.com/themes/wordpress/social-chef/wp-content/uploads/2014/11/strawberry-273908_1280.jpg",
+    "recipe_category": "9",
+    "description": "Experience the classic comfort of Chicken Parmesan. Crispy breaded chicken, smothered in marinara sauce and melted mozzarella cheese, is served atop a bed of perfectly cooked spaghetti, creating a timeless Italian-inspired dish."
+  },
+  {
+    "id": 46,
+    "chef_id": 10,
+    "name": "Caesar Salad",
+    "ingredients": ["Romaine lettuce", "Croutons", "Parmesan cheese", "Caesar dressing"],
+    "cooking_method": "1. Wash and dry romaine lettuce leaves.\n2. Tear the leaves into bite-sized pieces.\n3. In a bowl, toss the lettuce with croutons.\n4. Add grated Parmesan cheese.\n5. Drizzle Caesar dressing over the salad.\n6. Toss to coat evenly.\n7. Serve the Caesar salad chilled.",
+    "rating": 4.2,
+    "recipe_image": "https://www.themeenergy.com/themes/wordpress/social-chef/wp-content/uploads/2014/11/strawberry-273908_1280.jpg",
+    "recipe_category": "10",
+    "description": "Savor the classic flavors of a Caesar Salad. Crisp Romaine lettuce, crunchy croutons, and savory Parmesan cheese are tossed in a creamy Caesar dressing, creating a refreshing and satisfying salad."
+  },
+  {
+    "id": 47,
+    "chef_id": 10,
+    "name": "Lemon Garlic Shrimp Scampi",
+    "ingredients": ["Shrimp", "Garlic", "Lemon juice", "White wine", "Butter", "Parsley", "Spaghetti"],
+    "cooking_method": "1. Cook spaghetti according to package instructions.\n2. In a skillet, melt butter and sauté minced garlic.\n3. Add shrimp to the skillet and cook until pink.\n4. Pour in white wine and lemon juice.\n5. Simmer until the sauce thickens slightly.\n6. Toss cooked spaghetti with the shrimp scampi sauce.\n7. Garnish with chopped parsley.\n8. Serve the lemon garlic shrimp scampi hot.",
+    "rating": 4.4,
+    "recipe_image": "http://kodeforest.net/wp-demo/foodcourt/wp-content/uploads/2016/06/re-1600x900.jpg",
+    "recipe_category": "10",
+    "description": "Delight your taste buds with Lemon Garlic Shrimp Scampi. Succulent shrimp, bathed in a flavorful blend of garlic, white wine, and lemon, is served over a bed of perfectly cooked spaghetti, creating a dish that's both elegant and satisfying."
+  },
+  {
+    "id": 48,
+    "chef_id": 10,
+    "name": "Beef Stroganoff",
+    "ingredients": ["Beef sirloin", "Onion", "Mushrooms", "Sour cream", "Beef broth", "Dijon mustard", "Egg noodles"],
+    "cooking_method": "1. Slice beef sirloin into thin strips.\n2. In a skillet, cook beef and diced onions until browned.\n3. Add sliced mushrooms and cook until they release their moisture.\n4. In a separate bowl, mix sour cream, beef broth, and Dijon mustard.\n5. Pour the sour cream mixture into the skillet with the beef and mushrooms.\n6. Simmer until the sauce thickens.\n7. Cook egg noodles according to package instructions.\n8. Serve the beef stroganoff over egg noodles.",
+    "rating": 4.7,
+    "recipe_image": "http://kodeforest.net/wp-demo/foodcourt/wp-content/uploads/2016/06/re-1600x900.jpg",
+    "recipe_category": "11",
+    "description": "Indulge in the richness of Beef Stroganoff. Tender strips of beef, sautéed with onions and mushrooms, are smothered in a creamy sauce made with sour cream, beef broth, and Dijon mustard. Serve over egg noodles for a comforting meal."
+  },
+  {
+    "id": 49,
+    "chef_id": 10,
+    "name": "Baked Salmon with Lemon-Dill Sauce",
+    "ingredients": ["Salmon fillets", "Lemon", "Fresh dill", "Mayonnaise", "Dijon mustard"],
+    "cooking_method": "1. Preheat the oven.\n2. Season salmon fillets with salt, pepper, and lemon juice.\n3. Place the seasoned salmon on a baking sheet.\n4. In a bowl, mix mayonnaise, chopped fresh dill, and Dijon mustard to make the sauce.\n5. Spread the sauce over the salmon.\n6. Bake in the oven until the salmon is cooked through.\n7. Serve the baked salmon with lemon-dill sauce.",
+    "rating": 4.5,
+    "recipe_image": "http://kodeforest.net/wp-demo/foodcourt/wp-content/uploads/2016/06/re-1600x900.jpg",
+    "recipe_category": "11",
+    "description": "Savor the perfection of Baked Salmon with Lemon-Dill Sauce. Flaky salmon, seasoned with zesty lemon and aromatic dill, is baked to perfection and served with a luscious sauce, creating a dish that's both light and indulgent."
+  },
+  {
+    "id": 50,
+    "chef_id": 10,
+    "name": "Berry Cheesecake",
+    "ingredients": ["Graham cracker crust", "Cream cheese", "Sugar", "Vanilla extract", "Eggs", "Mixed berries", "Whipped cream"],
+    "cooking_method": "1. Preheat the oven.\n2. In a mixing bowl, beat cream cheese, sugar, and vanilla extract until smooth.\n3. Add eggs, one at a time, mixing well after each addition.\n4. Pour the cream cheese mixture into the graham cracker crust.\n5. Bake in the oven until the center is set.\n6. Let it cool and refrigerate for a few hours.\n7. Top the cheesecake with mixed berries.\n8. Serve the berry cheesecake chilled with a dollop of whipped cream.",
+    "rating": 4.6,
+    "recipe_image": "http://kodeforest.net/wp-demo/foodcourt/wp-content/uploads/2016/06/re-1600x900.jpg",
+    "recipe_category": "11",
+    "description": "Indulge your sweet tooth with Berry Cheesecake. A velvety cream cheese filling rests atop a graham cracker crust, adorned with a medley of mixed berries and a dollop of whipped cream. A delightful dessert for any occasion."
+  }
+]

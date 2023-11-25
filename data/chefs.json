@@ -1,56 +1,93 @@
 [
   {
     "id": 1,
-    "image": "https://html.themefax.com/RegFood/images/chef_4.jpg",
-    "name": "John Smith",
-    "experience": "10 years",
+    "image": "https://i.ibb.co/88Q6mwf/chef-with-thumb-up-white-background.jpg",
+    "name": "Jennifer Adams",
+    "experience": "15 years",
     "recipes": 4,
-    "likes": 2500,
-    "bio": "John Smith is a renowned chef with a passion for creating delicious and innovative dishes. With 10 years of experience in the culinary industry, he has mastered the art of combining flavors and textures to delight the taste buds of his patrons."
+    "likes": 3500,
+    "bio": "Jennifer Adams is an accomplished American chef known for her mastery in classic American comfort food. With 15 years of experience, she brings a modern twist to traditional recipes, creating dishes that evoke a sense of nostalgia with every bite."
   },
   {
     "id": 2,
-    "image": "https://html.themefax.com/RegFood/images/chef_5.jpg",
-    "name": "Emily Johnson",
-    "experience": "8 years",
-    "recipes": 3,
-    "likes": 1800,
-    "bio": "Emily Johnson is a talented chef known for her expertise in creating exquisite desserts. With 8 years of experience, she has honed her skills in crafting delectable pastries, cakes, and confections that leave a lasting impression on anyone with a sweet tooth."
+    "image": "https://i.ibb.co/3B6kZMp/unpleased-young-female-cook-wearing-chef-uniform-covered-eye-with-knife-isolated-white-background.jpg",
+    "name": "Robert Turner",
+    "experience": "14 years",
+    "recipes": 4,
+    "likes": 3800,
+    "bio": "Robert Turner is a seasoned American chef specializing in barbecue and grilling. With 14 years of experience, he has perfected the art of slow-cooked meats and savory marinades, earning him a reputation as a grill master in the culinary world."
   },
   {
     "id": 3,
-    "image": "https://html.themefax.com/RegFood/images/chef_4.jpg",
-    "name": "Michael Davis",
+    "image": "https://i.ibb.co/qMZF0HW/happy-young-cook-uniform-holding-salad.jpg",
+    "name": "Megan Harris",
     "experience": "12 years",
-    "recipes": 5,
-    "likes": 3200,
-    "bio": "Michael Davis is a seasoned chef who specializes in international cuisine. With 12 years of experience, he has traveled the world, immersing himself in diverse culinary traditions and incorporating unique flavors and techniques into his dishes."
+    "recipes": 4,
+    "likes": 3100,
+    "bio": "Megan Harris is a versatile American chef known for her expertise in regional cuisines. With 12 years of experience, she explores the diverse flavors of America, bringing a fusion of culinary traditions to her recipes that celebrate the richness of the nation's food culture."
   },
   {
     "id": 4,
-    "image": "https://html.themefax.com/RegFood/images/chef_1.jpg",
-    "name": "Sophia Wilson",
-    "experience": "6 years",
+    "image": "https://i.ibb.co/mNRCCkN/male-cook-standing-kitchen-presenting-delicious-dish.jpg",
+    "name": "David Miller",
+    "experience": "11 years",
     "recipes": 4,
-    "likes": 2100,
-    "bio": "Sophia Wilson is a rising star in the culinary world, known for her creative approach to fusion cuisine. With 6 years of experience, she blends different culinary traditions to create innovative dishes that tantalize the palate and showcase her unique culinary perspective."
+    "likes": 2700,
+    "bio": "David Miller is an innovative American chef with a passion for farm-to-table cooking. With 11 years of experience, he focuses on creating dishes that showcase the bounty of local produce, emphasizing freshness and quality in every recipe."
   },
   {
     "id": 5,
-    "image": "https://html.themefax.com/RegFood/images/chef_5.jpg",
-    "name": "Daniel Brown",
-    "experience": "9 years",
-    "recipes": 5,
-    "likes": 2800,
-    "bio": "Daniel Brown is a passionate chef who has a deep understanding of farm-to-table cooking. With 9 years of experience, he prioritizes fresh, locally sourced ingredients in his recipes, ensuring that each dish highlights the natural flavors and quality of the produce."
+    "image": "https://i.ibb.co/vmyyCQ1/professional-smiling-confectioner-wrapping-box-with-cookies.jpg",
+    "name": "Lauren Baker",
+    "experience": "13 years",
+    "recipes": 4,
+    "likes": 4000,
+    "bio": "Lauren Baker is a celebrated American pastry chef renowned for her delightful desserts. With 13 years of experience, she crafts sweet creations that not only satisfy the sweet tooth but also showcase her artistic flair and attention to detail."
   },
   {
     "id": 6,
-    "image": "https://html.themefax.com/RegFood/images/chef_1.jpg",
-    "name": "Olivia Martinez",
+    "image": "https://i.ibb.co/VSfFFyN/studio-portrait-cook-man-with-fresh-vegetables-table.jpg",
+    "name": "Christopher Ward",
+    "experience": "10 years",
+    "recipes": 4,
+    "likes": 2600,
+    "bio": "Christopher Ward is a rising star in the American culinary scene, known for his inventive approach to fusion cuisine. With 10 years of experience, he seamlessly blends diverse flavors to create dishes that reflect the melting pot of American food culture."
+  },
+  {
+    "id": 7,
+    "image": "https://i.ibb.co/bLc0JKJ/shot-professional-old-chef-dressed-uniform-holding-kitchen-spatula-tongs.jpg",
+    "name": "Haley Turner",
+    "experience": "9 years",
+    "recipes": 5,
+    "likes": 2200,
+    "bio": "Haley Turner is a dynamic American chef specializing in health-conscious cuisine. With 9 years of experience, she combines nutritional expertise with culinary creativity, offering recipes that prioritize well-being without compromising on flavor."
+  },
+  {
+    "id": 8,
+    "image": "https://i.ibb.co/WV4dWsB/female-chef-holding-wooden-spoon-whisk-rolling-pin-white-uniform-looking-cheery.jpg",
+    "name": "Samuel Jackson",
     "experience": "11 years",
     "recipes": 4,
-    "likes": 2300,
-    "bio": "Olivia Martinez is a celebrated chef known for her expertise in seafood cuisine. With 11 years of experience, she has perfected the art of preparing and presenting a wide variety of seafood dishes, capturing the essence of the ocean in every bite."
+    "likes": 2900,
+    "bio": "Samuel Jackson is an adventurous American chef known for his exploration of global flavors. With 11 years of experience, he brings a world of tastes to his American-inspired recipes, creating a culinary journey for those who savor each bite."
+  },
+  {
+    "id": 9,
+    "image": "https://i.ibb.co/P6LhnBw/portrait-female-chef-with-pan.jpg",
+    "name": "Alexandra White",
+    "experience": "14 years",
+    "recipes": 4,
+    "likes": 3600,
+    "bio": "Alexandra White is a distinguished American chef specializing in Southern cuisine. With 14 years of experience, she captures the essence of the South in her recipes, infusing warmth and hospitality into every dish she creates."
+  },
+  {
+    "id": 10,
+    "image": "https://i.ibb.co/Hn1zxJp/female-chef-chopping-vegetables-kitchen.jpg",
+    "name": "Nathan Robinson",
+    "experience": "12 years",
+    "recipes": 5,
+    "likes": 3200,
+    "bio": "Nathan Robinson is a passionate American chef with a focus on sustainable and organic ingredients. With 12 years of experience, he emphasizes the importance of responsible sourcing in his recipes, creating dishes that are not only delicious but also environmentally conscious."
   }
 ]
+
